@@ -1,0 +1,28 @@
+.btn {
+    padding: 8px 20px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-primary {
+background-color: rgb(45, 74, 203);
+color: #fff;
+}
+
+.btn--medium{
+    padding: 8px 20px;
+    font-size: 20px;
+}
+
+.btn--large{
+    padding: 12px 26px;
+    font-size: 20px;
+}
+
+.btn--medium:hover, .btn--large:hover{
+    background-color: rgb(85, 110, 221);
+    color: #fff;
+    transition: all 0.3s ease-out;
+} 

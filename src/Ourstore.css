@@ -1,0 +1,56 @@
+.outstore-content{
+    top: 160px;
+    position: relative;
+   
+}
+
+.row img{
+    height: 300px;
+   
+  
+}
+
+.row .card{
+    margin-top: 50px;
+    transition: 0.5s all ease-in-out;
+
+}
+
+.row .card-text{
+    height: 70px;
+}
+
+.row h1{
+    text-align: center;
+    font-weight: 700;
+}
+
+.row .card:hover{
+
+    transform: translateY(10%);
+    
+   
+
+}
+.sustinable { 
+    text-align: center;
+
+
+}
+.card h3{
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: -40px;
+    
+}
+
+.card h3 span{
+
+    font-weight: 400;
+    
+
+}
+
+.Lifestyle{
+    text-align: center;
+}

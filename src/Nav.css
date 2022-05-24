@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+}
+
+
+a {
+    text-decoration: none;
+}
+.navbar {
+    background-color: #fff;
+}
+
+.navbar-nav a{
+
+    color: rgb(0, 0, 0) !important;
+    margin-left: 10px;
+    font-weight: 600;
+    text-align: center;
+    font-size: 14px;
+    
+}
+
+.navbar-nav .current{
+    color: rgb(38, 192, 0);
+}
+
+.navbar .navbar-toggler:focus {
+    outline: none;
+    border: unset;
+    box-shadow: none;
+
+}
+
+
+
+
+.shop-cart{
+    font-size: 22px;
+    color: rgb(38, 192, 0);
+    margin-left: 80px;
+    text-align: center;
+}
+
+.shop-proflie{
+    font-size: 22px;
+    color: rgb(17, 18, 17);
+    margin-left: 15px;
+    text-align: center;
+    
+}
+
+.shop-join a{
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+}
+
+.nav-link:hover{
+
+    color: rgb(38, 192, 0) !important;
+    
+    
+}
+
+
+.navbar-brand{
+    
+    margin-left: 200px;
+}
+
+
+@media (max-width: 1200px) {
+
+
+    .navbar-brand img{
+    
+       width: 80%;
+    }
+    
+    .navbar-brand{
+    
+        margin-left: 0px;
+    }
+
+    .nav-link{
+
+        font-size: 15px;
+        line-height: 1.5;
+    }
+    .shop-cart{
+        
+        margin-left: 11px;
+       
+        
+    }
+
+}
+    
+

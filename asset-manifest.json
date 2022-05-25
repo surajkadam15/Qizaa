@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Qizaanpm%20install%20--save%20gh-pages/static/css/main.d80c7d1a.css",
+    "main.js": "/Qizaanpm%20install%20--save%20gh-pages/static/js/main.11bd67aa.js",
+    "static/media/back.png": "/Qizaanpm%20install%20--save%20gh-pages/static/media/back.6cbe0c02a8ec7f1c8891.png",
+    "index.html": "/Qizaanpm%20install%20--save%20gh-pages/index.html",
+    "main.d80c7d1a.css.map": "/Qizaanpm%20install%20--save%20gh-pages/static/css/main.d80c7d1a.css.map",
+    "main.11bd67aa.js.map": "/Qizaanpm%20install%20--save%20gh-pages/static/js/main.11bd67aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d80c7d1a.css",
+    "static/js/main.11bd67aa.js"
+  ]
+}
